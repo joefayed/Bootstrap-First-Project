@@ -13,3 +13,7 @@ This is a small project using bootstrap and node js to create a simple website w
 ![Alt text](/screencapture-12-Login-Form.png?raw=true "Optional Title")
 ### Reserve a table form
 ![Alt text](/screencapture-12-Reserve-a-table.png?raw=true "Optional Title")
+
+# Used techniques
+Bootstrap 4,
+node js
